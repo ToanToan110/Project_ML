@@ -15,12 +15,6 @@ from google.colab import drive
 drive.mount('/content/drive')
 ```
 
-git clone để lấy mã nguồn về
-
-```bash
-! git clone https://github.com/ToanToan110/Project_ML
-```
-
 Import model từ drive cua ban
 
 ```bash
