@@ -6,6 +6,8 @@ Lưu model về drive người dùng
 
 Tạo 1 notebook mới trên colab
 
+Chuyển sang thời gian chạy bằng GPU để tránh lỗi RuntimeError khi chạy nhận diện khuôn mặt(face_recognition)
+
 Kết nối colab với drive
 
 ```bash
