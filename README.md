@@ -1,6 +1,6 @@
 # Project_ML
 
-https://drive.google.com/drive/folders/1eCFftMGXUP5HLaNucYdGOKHxLJZ6Fu-G
+https://drive.google.com/file/d/1zd84QH1L8jkHnrBoMDDTKPgDj2EeTCIO/view?usp=sharing
 
 Lưu model về drive người dùng
 
