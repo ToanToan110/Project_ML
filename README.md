@@ -1,4 +1,4 @@
-# Project_ML
+# FACE RECOGNITION. ÁP DỤNG MODEL ĐỂ KIỂM TRA GIỚI TÍNH DO NGƯỜI DÙNG TỰ NHẬP
 
 https://drive.google.com/file/d/1zd84QH1L8jkHnrBoMDDTKPgDj2EeTCIO/view?usp=sharing
 
