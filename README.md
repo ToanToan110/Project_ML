@@ -32,8 +32,8 @@ loaded_model = pickle.load(open(f, 'rb'))
 Cài đặt các thư viện cần thiết và hàm detect(xử lí ảnh nhập vào)
 
 ```bash
-import numpy as np # linear algebra
-import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
+import numpy as np 
+import pandas as pd 
 import matplotlib.pyplot as plt
 import matplotlib.image as implt
 import os
@@ -49,7 +49,6 @@ from keras.models import load_model
 def detect (img):
   img_1 = img
   input = img
-  ##cv2_imshow(img_1)
   input = cv2.cvtColor(input, cv2.COLOR_RGB2GRAY)
   input = cv2.resize(input,(50,50), Image.ANTIALIAS)
   input = np.reshape(input, 50*50)
