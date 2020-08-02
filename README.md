@@ -4,8 +4,6 @@ https://drive.google.com/drive/folders/1eCFftMGXUP5HLaNucYdGOKHxLJZ6Fu-G
 
 Lưu model về drive người dùng
 
-<img src="ScreenShot_20200803005730.png" title="Logo" width="200" /> 
-
 Tạo 1 notebook mới trên colab
 
 Kết nối colab với drive
