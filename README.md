@@ -23,7 +23,7 @@ Import model từ drive cua ban
 
 ```bash
 import pickle
-f = '/content/drive/My Drive/model.sav'
+f = '/content/drive/My Drive/model.sav' #đường dẫn file đã lưu ở drive
 loaded_model = pickle.load(open(f, 'rb'))
 ```
 
