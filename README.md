@@ -4,6 +4,7 @@ Source code: https://github.com/ToanToan110/Project_ML/blob/master/FinalProject.
 Báo cáo : https://github.com/ToanToan110/Project_ML/blob/master/BaocaoML%20.pdf
 
 Slide: https://github.com/ToanToan110/Project_ML/blob/master/SlidebaocaoML.pdf
+Link drive lưu dataset( file nén .zip): https://drive.google.com/file/d/1fHxezj1yooS2KRT5nFXD6TgzbTtBsWlJ/view?usp=sharing
 
 # HƯỚNG DẪN CHẠY: ÁP DỤNG MODEL ĐỂ KIỂM TRA GIỚI TÍNH TỪ ẢNH DO NGƯỜI DÙNG TỰ NHẬP
 
