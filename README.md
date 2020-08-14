@@ -1,6 +1,8 @@
 # ĐỒ ÁN Meachine Learning: NHẬN DIỆN GIỚI TÍNH
 Source code: https://github.com/ToanToan110/Project_ML/blob/master/FinalProject.ipynb
+
 Báo cáo : https://github.com/ToanToan110/Project_ML/blob/master/BaocaoML%20.pdf
+
 Slide: https://github.com/ToanToan110/Project_ML/blob/master/SlidebaocaoML.pdf
 
 # HƯỚNG DẪN CHẠY: ÁP DỤNG MODEL ĐỂ KIỂM TRA GIỚI TÍNH TỪ ẢNH DO NGƯỜI DÙNG TỰ NHẬP
